@@ -9,7 +9,7 @@
 <h2 style="text-align: left;"><span style="text-decoration: underline;"><strong>Sreenshots</strong></span></h2>
 <h3>Before:</h3>
 <p><img src="./assets/images/horiseon-html-before.gif" alt="A GIF of the Horiseon websites HTML prior to the overhaul" /></p>
-<p><img src="./assets/images/horiseon-css-before" alt="A GIF of the Horiseon websites css prior to the overhaul" /></p>
+<p><img src="./assets/images/horiseon-css-before.gif" alt="A GIF of the Horiseon websites css prior to the overhaul" /></p>
 <h3>After:</h3>
 <p><img src="./assets/images/horiseon-html-after.gif" alt="A GIF of the Horiseon websites HTML after the overhaul" /></p>
 <p><img src="./assets/images/horiseon-css-after.gif" alt="A GIF of the Horiseon websites CSS after the overhaul" /></p>
